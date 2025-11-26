@@ -18,23 +18,14 @@ I'm a dedicated web and mobile developer currently working on multiple full-stac
 ## 🛠️ Technical Skills
 
 ### **Languages & Frameworks**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,php,laravel" alt="Frontend & Backend Technologies" />
 </p>
 
 ### **Databases & Tools**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Database & Version Control" />
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SusiBaril&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusiBaril&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
@@ -42,7 +33,7 @@ I'm a dedicated web and mobile developer currently working on multiple full-stac
 
 - 📧 **Email:** [rosaleskeegan@gmail.com](mailto:rosaleskeegan@gmail.com)
 - 💼 **LinkedIn:** [Add your profile]
-- 🌐 **Portfolio:** [Add your website]
+- 🌐 **Portfolio:** [[Add your website](https://susi-portfolio-five.vercel.app/)]
 
 ---
 
