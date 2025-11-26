@@ -1,40 +1,55 @@
 # Hi there, I'm Keegan! 👋
 
-## 🚀 About Me
-
-I'm a web and mobile developer currently working on multiple full‑stack projects. I enjoy building modern, responsive, and secure applications using frameworks like **Laravel**, **React**, and various APIs. I'm also engaged in academic and capstone projects, always aiming to blend functionality with clean design.
+Full-stack web and mobile developer passionate about building modern, responsive, and secure applications.
 
 ---
 
-## 🛠️ Skills
+## 🚀 About Me
+
+I'm a dedicated web and mobile developer currently working on multiple full-stack projects. I combine modern frameworks with clean design principles to create scalable applications. My focus areas include:
+
+- **Full-stack development** with Laravel and React
+- **Responsive design** using Tailwind CSS
+- **API integration** and backend architecture
+- **Academic & capstone projects** that solve real-world problems
+
+---
+
+## 🛠️ Technical Skills
 
 ### **Languages & Frameworks**
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,php,laravel" alt="Frontend & Backend Technologies" />
 </p>
 
 ### **Databases & Tools**
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Database & Version Control" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Keegan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SusiBaril&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusiBaril&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🔗 Let's Connect
 
-* 💼 Portfolio (Coming soon!)
-* 📫 Email: [rosaleskeegan@gmail.com](mailto:rosaleskeegan@gmail.com)
+- 📧 **Email:** [rosaleskeegan@gmail.com](mailto:rosaleskeegan@gmail.com)
+- 💼 **LinkedIn:** [Add your profile]
+- 🌐 **Portfolio:** [Add your website]
 
 ---
 
-*Thanks for stopping by!* 🚀
+## 💡 Featured Projects
+
+*Add your best projects here with descriptions and links*
+
+---
+
+*Thanks for stopping by! Feel free to check out my repositories and reach out if you'd like to collaborate.* 🚀
