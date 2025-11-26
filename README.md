@@ -32,4 +32,5 @@ I'm a dedicated web currently working on multiple full-stack projects. I combine
 
 ## Github Stats
 
-[![SusiBaril's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusiBaril)](https://github.com/SusiBaril/github-readme-stats)
+![SusiBaril's GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SusiBaril&theme=github)
+
