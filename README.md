@@ -1,12 +1,18 @@
+can you center it:
+
 # Hi there, I'm Keegan!
 
-Full-stack web developer focused on building modern, responsive, and secure applications.
+<p align="center">
+  Full-stack web developer focused on building modern, responsive, and secure applications.
+</p>
 
 ---
 
 ## About Me
 
-I'm a dedicated web developer currently working on multiple full-stack projects. I combine modern frameworks with clean design principles to create scalable applications.
+<p align="center">
+  I'm a dedicated web currently working on multiple full-stack projects. I combine modern frameworks with clean design principles to create scalable applications.
+</p>
 
 ---
 
@@ -26,15 +32,11 @@ I'm a dedicated web developer currently working on multiple full-stack projects.
 
 ## Let's Connect
 
-<p align="center">
-  📧 **Email:** <a href="mailto:rosaleskeegan@gmail.com">rosaleskeegan@gmail.com</a>  
-  💼 **LinkedIn:** [Add your profile]  
-  🌐 **Portfolio:** <a href="https://susi-portfolio-five.vercel.app/">View</a>
-</p>
+- 📧 **Email:** [rosaleskeegan@gmail.com](mailto:rosaleskeegan@gmail.com)
+- 💼 **LinkedIn:** [Add your profile]
+- 🌐 **Portfolio:** [[View](https://susi-portfolio-five.vercel.app/)]
 
----
-
-## GitHub Stats
+## Github Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SusiBaril&theme=radical" alt="SusiBaril's GitHub streak">
