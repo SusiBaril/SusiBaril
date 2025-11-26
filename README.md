@@ -36,6 +36,6 @@ can you center it:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SusiBaril&theme=radical" alt="SusiBaril's GitHub streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusiBaril&langs_count=6&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusiBaril&layout=donut-vertical&theme=radical" alt="Top Languages">
 </p>
 
