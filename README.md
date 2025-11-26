@@ -6,7 +6,7 @@ Full-stack web developer focused on building modern, responsive, and secure appl
 
 ## About Me
 
-I'm a dedicated web and mobile developer currently working on multiple full-stack projects. I combine modern frameworks with clean design principles to create scalable applications. My focus areas include:
+I'm a dedicated web currently working on multiple full-stack projects. I combine modern frameworks with clean design principles to create scalable applications.
 
 ---
 
@@ -24,8 +24,12 @@ I'm a dedicated web and mobile developer currently working on multiple full-stac
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 - 📧 **Email:** [rosaleskeegan@gmail.com](mailto:rosaleskeegan@gmail.com)
 - 💼 **LinkedIn:** [Add your profile]
 - 🌐 **Portfolio:** [[View](https://susi-portfolio-five.vercel.app/)]
+
+## Github Stats
+
+[![SusiBaril's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusiBaril)](https://github.com/SusiBaril/github-readme-stats)
