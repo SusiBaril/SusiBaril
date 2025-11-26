@@ -34,7 +34,7 @@ can you center it:
 
 ## Github Stats
 
-<p align="center">
+<p align="center" gap="5px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SusiBaril&theme=radical" alt="SusiBaril's GitHub streak">
   <img src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=SusiBaril&layout=donut-vertical&theme=radical" alt="SusiBaril's Top Languages">
 </p>
