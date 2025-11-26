@@ -35,7 +35,7 @@ can you center it:
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SusiBaril&theme=radical" alt="SusiBaril's GitHub streak" style="height:150px; margin-right:20px;">
-  <img src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=SusiBaril&layout=donut-vertical&theme=radical" alt="SusiBaril's Top Languages" style="height:150px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SusiBaril&theme=radical" alt="SusiBaril's GitHub streak" style="height:250px; margin-right:20px;">
+  <img src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=SusiBaril&layout=donut-vertical&theme=radical" alt="SusiBaril's Top Languages" style="height:250px;">
 </p>
 
