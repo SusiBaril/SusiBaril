@@ -32,7 +32,10 @@ I'm a dedicated web currently working on multiple full-stack projects. I combine
 
 ## Github Stats
 
-[![Keegan's GitHub stats](https://YOUR-VERCEL-URL/api?username=SusiBaril&theme=radical)](https://github.com/SusiBaril)
+<p align="center">
+  ![GitHub commits](https://img.shields.io/github/commit-activity/m/SusiBaril)
+  ![GitHub contributions](https://img.shields.io/github/contributors/SusiBaril/SusiBaril)
+</p>
 
 
 
