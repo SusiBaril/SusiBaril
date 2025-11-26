@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Keegan! 👋
 
-<!--
-**SusiBaril/SusiBaril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a web and mobile developer currently working on multiple full‑stack projects. I enjoy building modern, responsive, and secure applications using frameworks like **Laravel**, **React**, and various APIs. I'm also engaged in academic and capstone projects, always aiming to blend functionality with clean design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+### **Languages & Frameworks**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,php,laravel" />
+</p>
+
+### **Databases & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
+</p>
+
+### **Other Technologies**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Keegan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔗 Let's Connect
+
+* 💼 Portfolio (Coming soon!)
+* 📫 Email: [rosaleskeegan@gmail.com](mailto:rosaleskeegan@gmail.com)
+
+---
+
+*Thanks for stopping by!* 🚀
