@@ -33,7 +33,7 @@ I'm a dedicated web and mobile developer currently working on multiple full-stac
 
 - 📧 **Email:** [rosaleskeegan@gmail.com](mailto:rosaleskeegan@gmail.com)
 - 💼 **LinkedIn:** [Add your profile]
-- 🌐 **Portfolio:** [[Add your website](https://susi-portfolio-five.vercel.app/)]
+- 🌐 **Portfolio:** [[View](https://susi-portfolio-five.vercel.app/)]
 
 ---
 
