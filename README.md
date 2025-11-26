@@ -20,12 +20,6 @@ I'm a web and mobile developer currently working on multiple full‑stack projec
   <img src="https://skillicons.dev/icons?i=mysql,git,github" />
 </p>
 
-### **Other Technologies**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
