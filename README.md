@@ -32,5 +32,7 @@ I'm a dedicated web currently working on multiple full-stack projects. I combine
 
 ## Github Stats
 
-![SusiBaril's GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SusiBaril&theme=github)
+![GitHub followers](https://img.shields.io/github/followers/SusiBaril?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/SusiBaril?style=social)
+
 
