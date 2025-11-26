@@ -33,9 +33,9 @@ I'm a dedicated web currently working on multiple full-stack projects. I combine
 ## Github Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/SusiBaril" alt="GitHub commits" style="margin-right:10px;">
-  <img src="https://img.shields.io/github/contributors/SusiBaril/SusiBaril" alt="GitHub contributions">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SusiBaril&theme=radical" alt="SusiBaril's GitHub streak">
 </p>
+
 
 
 
