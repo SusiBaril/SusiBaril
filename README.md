@@ -33,9 +33,10 @@ I'm a dedicated web currently working on multiple full-stack projects. I combine
 ## Github Stats
 
 <p align="center">
-  ![GitHub commits](https://img.shields.io/github/commit-activity/m/SusiBaril)
-  ![GitHub contributions](https://img.shields.io/github/contributors/SusiBaril/SusiBaril)
+  <img src="https://img.shields.io/github/commit-activity/m/SusiBaril" alt="GitHub commits" style="margin-right:10px;">
+  <img src="https://img.shields.io/github/contributors/SusiBaril/SusiBaril" alt="GitHub contributions">
 </p>
+
 
 
 
