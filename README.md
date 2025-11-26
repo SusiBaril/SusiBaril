@@ -32,6 +32,7 @@ I'm a dedicated web currently working on multiple full-stack projects. I combine
 
 ## Github Stats
 
-![SusiBaril's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SusiBaril&theme=radical)
+[![Keegan's GitHub stats](https://YOUR-VERCEL-URL/api?username=SusiBaril&theme=radical)](https://github.com/SusiBaril)
+
 
 
