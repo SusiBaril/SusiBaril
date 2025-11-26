@@ -2,17 +2,13 @@ can you center it:
 
 # Hi there, I'm Keegan!
 
-<p align="center">
   Full-stack web developer focused on building modern, responsive, and secure applications.
-</p>
 
 ---
 
 ## About Me
 
-<p align="center">
   I'm a dedicated web currently working on multiple full-stack projects. I combine modern frameworks with clean design principles to create scalable applications.
-</p>
 
 ---
 
@@ -40,4 +36,6 @@ can you center it:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SusiBaril&theme=radical" alt="SusiBaril's GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusiBaril&langs_count=6&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
