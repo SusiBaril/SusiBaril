@@ -2,7 +2,7 @@ can you center it:
 
 # Hi there, I'm Keegan!
 
-  Full-stack web developer focused on building modern, responsive, and secure applications.
+  Full-stack web developer based in the Philippines, focused on building modern, responsive, and secure applications..
 
 ---
 
