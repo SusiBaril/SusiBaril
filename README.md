@@ -1,5 +1,3 @@
-can you center it:
-
 # Hi there, I'm Keegan!
 
   Full-stack web developer based in the Philippines, focused on building modern, responsive, and secure applications..
@@ -16,7 +14,7 @@ can you center it:
 
 ### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel" alt="Frontend & Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,node,express,mongodb" alt="Frontend & Backend Technologies" />
 </p>
 
 ### **Databases & Tools**
