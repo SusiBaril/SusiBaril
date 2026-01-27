@@ -14,7 +14,7 @@
 
 ### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,node,express,mongodb" alt="Frontend & Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,express,mongodb" alt="Frontend & Backend Technologies" />
 </p>
 
 ### **Databases & Tools**
