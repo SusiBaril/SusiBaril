@@ -28,7 +28,7 @@
 
 - 📧 **Email:** [rosaleskeegan@gmail.com](mailto:rosaleskeegan@gmail.com)
 - 💼 **LinkedIn:** [Add your profile]
-- 🌐 **Portfolio:** [[View](https://susi-portfolio-five.vercel.app/)]
+- 🌐 <strong>Portfolio:</strong> <a href="https://rosales-portfolio.vercel.app/" target="_blank">View</a>
 
 ## Github Stats
 
