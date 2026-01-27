@@ -6,7 +6,7 @@
 
 ## About Me
 
-  I'm a dedicated web currently working on multiple full-stack projects. I combine modern frameworks with clean design principles to create scalable applications.
+  I'm a Full-stack web developer and currently a student at NU Lipa, eager to learn and enhance my skills. I combine modern frameworks with clean design principles to create scalable applications.
 
 ---
 
