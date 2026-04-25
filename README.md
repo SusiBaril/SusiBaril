@@ -14,12 +14,12 @@
 
 ### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,express" alt="Frontend & Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel" alt="Frontend & Backend Technologies" />
 </p>
 
 ### **Databases & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" alt="Database & Version Control" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Database & Version Control" />
 </p>
 
 ---
