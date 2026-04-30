@@ -7,17 +7,17 @@ Currently studying at **NU Lipa** while continuously improving my development sk
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 🎓 Currently a student at **National University Lipa**
-- 💻 Passionate about **Full-Stack Web Development**
-- 🎨 Interested in creating clean, minimalist, and responsive UI/UX
-- 🔧 Enjoy building systems that solve real-world problems
-- 📚 Always exploring new technologies and best practices
+-  Currently a student at **National University Lipa**
+-  Passionate about **Full-Stack Web Development**
+-  Interested in creating clean, minimalist, and responsive UI/UX
+-  Enjoy building systems that solve real-world problems
+-  Always exploring new technologies and best practices
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ## Frontend Development
 <p align="center">
@@ -36,7 +36,7 @@ Currently studying at **NU Lipa** while continuously improving my development sk
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
   <a href="mailto:rosaleskeegan@gmail.com">
@@ -54,7 +54,7 @@ Currently studying at **NU Lipa** while continuously improving my development sk
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
