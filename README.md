@@ -61,6 +61,7 @@ Currently studying at **NU Lipa** while continuously improving my development sk
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusiBaril&layout=compact&theme=radical" 
     height="170"
+    align="center"
   />
 </p>
 
