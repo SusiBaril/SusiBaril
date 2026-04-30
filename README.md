@@ -11,7 +11,6 @@ Currently studying at **NU Lipa** while continuously improving my development sk
 
 - 🎓 Currently a student at **National University Lipa**
 - 💻 Passionate about **Full-Stack Web Development**
-- 🌱 Currently learning **Ruby on Rails**, backend architecture, and testing
 - 🎨 Interested in creating clean, minimalist, and responsive UI/UX
 - 🔧 Enjoy building systems that solve real-world problems
 - 📚 Always exploring new technologies and best practices
@@ -37,16 +36,6 @@ Currently studying at **NU Lipa** while continuously improving my development sk
 
 ---
 
-# 📌 Current Focus
-
-- Building full-stack web applications
-- Learning Ruby and Ruby on Rails
-- Improving backend logic and database design
-- Practicing clean code and testing with RSpec
-- Developing real-world systems and productivity tools
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -68,10 +57,6 @@ Currently studying at **NU Lipa** while continuously improving my development sk
 # 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SusiBaril&show_icons=true&theme=radical" 
-    height="170"
-  />
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusiBaril&layout=compact&theme=radical" 
