@@ -1,38 +1,82 @@
-# Hi there, I'm Keegan!
+# Hey there, I'm Keegan 👋
 
-  Full-stack web developer based in the Philippines, focused on building modern, responsive, and secure applications..
+### Full-Stack Web Developer | Student Developer from the Philippines 🇵🇭
 
----
-
-## About Me
-
-  I'm a Full-stack web developer and currently a student at NU Lipa, eager to learn and enhance my skills. I combine modern frameworks with clean design principles to create scalable applications.
+I build modern, responsive, and secure web applications with a focus on clean UI, scalable architecture, and user-friendly experiences.  
+Currently studying at **NU Lipa** while continuously improving my development skills through real-world projects and self-learning.
 
 ---
 
-## Technical Skills
+# 🚀 About Me
 
-### **Languages & Frameworks**
+- 🎓 Currently a student at **National University Lipa**
+- 💻 Passionate about **Full-Stack Web Development**
+- 🌱 Currently learning **Ruby on Rails**, backend architecture, and testing
+- 🎨 Interested in creating clean, minimalist, and responsive UI/UX
+- 🔧 Enjoy building systems that solve real-world problems
+- 📚 Always exploring new technologies and best practices
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel" alt="Frontend & Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### **Databases & Tools**
+## Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Database & Version Control" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,ruby,rails" />
+</p>
+
+## Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 ---
 
-## Let's Connect
+# 📌 Current Focus
 
-- 📧 **Email:** [rosaleskeegan@gmail.com](mailto:rosaleskeegan@gmail.com)
-- 💼 **LinkedIn:** <a href="www.linkedin.com/in/keeganrosales" target="_blank">Profile</a>
-- 🌐 <strong>Portfolio:</strong> <a href="https://rosales-portfolio.vercel.app/" target="_blank">View</a>
+- Building full-stack web applications
+- Learning Ruby and Ruby on Rails
+- Improving backend logic and database design
+- Practicing clean code and testing with RSpec
+- Developing real-world systems and productivity tools
 
-## Github Stats
+---
 
-<p align="center" style="gap:50px;">
-  <img src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=SusiBaril&layout=compact&theme=radical" alt="SusiBaril's Top Languages Compact" style="height: 10rem;">
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:rosaleskeegan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/keeganrosales" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://rosales-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SusiBaril&show_icons=true&theme=radical" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusiBaril&layout=compact&theme=radical" 
+    height="170"
+  />
+</p>
+
+---
