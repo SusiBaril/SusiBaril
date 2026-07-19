@@ -22,7 +22,7 @@ I'm an **IT graduate (Class of 2026)** with hands-on full-stack internship exper
 I'm currently looking for opportunities as a **Junior Software Developer,Junior Software Engineer**, **Web/Frontend Developer**, or **Software QA**, where I can ship reliable, maintainable code and keep learning.
 
 - B.S. Information Technology (Mobile & Web Applications) — National University, Lipa Campus, 2026
-- Comfortable across the stack: React/Vite frontends, Laravel & Rails backends, MySQL/PostgreSQL databases
+- Comfortable building applications with React.js, Node.js, Express.js, Tailwind CSS, PostgreSQL, and MySQL, and currently learning the PERN stack and React Native to broaden my full-stack and mobile development skills.
 - Experienced in QA sprint lifecycles — investigating, tracking, and resolving functional, UI/UX, and data integrity issues
 - Agile team player — daily stand-ups, sprint planning, code reviews
 - Based in Batangas, Philippines
@@ -31,17 +31,35 @@ I'm currently looking for opportunities as a **Junior Software Developer,Junior 
 
 ### Experience
 
-**Web Developer Intern** — *TechNavyPhil* (Apr 2026 – Jul 2026)
-Built full-stack features for employee and data management systems using **Ruby on Rails** and **ActiveAdmin**, resolved QA-flagged issues, and contributed to an Employee Portal within an Agile team.
+**Web Developer Intern** — *TechNavyPhil* (Apr 2026 – Jul 2026) <br/>
+• Completed an intensive 10-day Ruby on Rails training program, building a strong foundation in MVC architecture,
+ActiveRecord, and Rails development.<br/>
+• Developed and maintained full-stack features for employee and data management systems using Ruby on Rails and
+ActiveAdmin.<br/>
+• Designed and enhanced modules involving complex database relationships, business logic, and administrative interfaces.<br/>
+• Investigated and resolved functional, UI/UX, and data integrity issues identified during QA testing, improving system
+reliability.<br/>
+• Collaborated in an Agile development environment by participating in daily stand-ups, sprint planning, code reviews, and
+Jira-based task management.<br/>
+• Contributed to the ongoing development of an Employee Portal by implementing new features and enhancements based
+on sprint requirements and stakeholder feedback.<br/>
 
-**IT Support Intern** — *Top Realty Corporation* (Nov 2025 – Feb 2026)
-Managed end-to-end website builds on **Webflow**, handled frontend maintenance with **HTML/CSS**, and optimized for SEO, responsiveness, and performance — while also supporting hardware and network troubleshooting.
+**IT Support Intern** — *Top Realty Corporation* (Nov 2025 – Feb 2026)<br/>
+• Managed the end-to-end website build process using Webflow, including CMS management, content layouts, and thirdparty integrations.)<br/>
+• Handled client requests for frontend maintenance, executing style edits, content updates, and custom feature creation
+using HTML and CSS.)<br/>
+• Optimized web assets to ensure strict brand consistency, mobile responsiveness, on-site SEO best practices, and highperformance UX.)<br/>
+• Installed, configured, and maintained hardware infrastructure, including computers, mobile devices, peripherals, and
+software systems.)<br/>
+• Diagnosed and resolved technical issues, troubleshooting hardware malfunctions, application errors, and network
+connectivity anomalies.)<br/>
+• Implemented corrective technical actions and efficiently escalated complex issues to appropriate resources.)<br/>
 
 ---
 
 ### Featured Project
 
-**[NUSMART — Academic Research Management System](#)**
+**[NUSMART — Academic Research Management System](#)** )<br/>
 Led frontend development for NU Lipa's Research and Knowledge Management Office (RKMO) system, and supported backend integration and testing. <br/>
 `React.js` · `Vite` · `Tailwind CSS` · `Laravel` · `MySQL`
 
@@ -58,16 +76,23 @@ Led frontend development for NU Lipa's Research and Knowledge Management Office 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
-![Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Currently Learning**
+![PERN Stack](https://img.shields.io/badge/PERN%20Stack-4CAF50?style=flat-square)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Tools & Practices**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -77,7 +102,7 @@ Led frontend development for NU Lipa's Research and Knowledge Management Office 
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-1E90FF?style=flat-square)
 
 **AI Tools**
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 
 ---
