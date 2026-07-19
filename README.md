@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andrew Keegan Rosales 👋</h1>
+<h1 align="center">Hi, I'm Andrew Keegan Rosales</h1>
 <h3 align="center">Junior Software Developer | Junior Software Engineer | Web/Frontend Developer | QA-minded Builder</h3>
 
 <p align="center">
@@ -15,21 +15,21 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm an **IT graduate (Class of 2026)** with hands-on full-stack internship experience across **React, Laravel, and Ruby on Rails**, and solid working knowledge of Agile/Scrum practices from real sprint teams. I enjoy building responsive, well-tested web applications and thrive in sprint-based Agile teams — from stand-ups to code reviews to Jira-driven task management.
 
 I'm currently looking for opportunities as a **Junior Software Developer,Junior Software Engineer**, **Web/Frontend Developer**, or **Software QA**, where I can ship reliable, maintainable code and keep learning.
 
-- 🎓 B.S. Information Technology (Mobile & Web Applications) — National University, Lipa Campus, 2026
-- 🛠️ Comfortable across the stack: React/Vite frontends, Laravel & Rails backends, MySQL/PostgreSQL databases
-- 🧪 Experienced in QA sprint lifecycles — investigating, tracking, and resolving functional, UI/UX, and data integrity issues
-- 🤝 Agile team player — daily stand-ups, sprint planning, code reviews
-- 📍 Based in Batangas, Philippines
+- B.S. Information Technology (Mobile & Web Applications) — National University, Lipa Campus, 2026
+- Comfortable across the stack: React/Vite frontends, Laravel & Rails backends, MySQL/PostgreSQL databases
+- Experienced in QA sprint lifecycles — investigating, tracking, and resolving functional, UI/UX, and data integrity issues
+- Agile team player — daily stand-ups, sprint planning, code reviews
+- Based in Batangas, Philippines
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Web Developer Intern** — *TechNavyPhil* (Apr 2026 – Jul 2026)
 Built full-stack features for employee and data management systems using **Ruby on Rails** and **ActiveAdmin**, resolved QA-flagged issues, and contributed to an Employee Portal within an Agile team.
@@ -39,7 +39,7 @@ Managed end-to-end website builds on **Webflow**, handled frontend maintenance w
 
 ---
 
-### 🧩 Featured Project
+### Featured Project
 
 **[NUSMART — Academic Research Management System](#)**
 Led frontend development for NU Lipa's Research and Knowledge Management Office (RKMO) system, and supported backend integration and testing. <br/>
@@ -47,7 +47,7 @@ Led frontend development for NU Lipa's Research and Knowledge Management Office 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -82,7 +82,7 @@ Led frontend development for NU Lipa's Research and Knowledge Management Office 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SusiBaril&show_icons=true&theme=default&hide_border=true" height="165" />
@@ -91,7 +91,7 @@ Led frontend development for NU Lipa's Research and Knowledge Management Office 
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keeganrosales/">LinkedIn</a> ·
