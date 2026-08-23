@@ -81,8 +81,6 @@ Led frontend development for NU Lipa's Research and Knowledge Management Office 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
@@ -100,10 +98,6 @@ Led frontend development for NU Lipa's Research and Knowledge Management Office 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-1E90FF?style=flat-square)
-
-**AI Tools**
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
