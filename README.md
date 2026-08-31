@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrew Keegan Rosales</h1>
-<h3 align="center">Junior Software Developer | Junior Software Engineer | Web/Frontend Developer | QA-minded Builder</h3>
+<!-- <h3 align="center">Junior Software Developer | Junior Software Engineer | Web/Frontend Developer | QA-minded Builder</h3> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keeganrosales/">
