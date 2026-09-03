@@ -60,8 +60,16 @@ connectivity anomalies.)<br/>
 ### Featured Project
 
 **[NUSMART — Academic Research Management System](#)** )<br/>
-Led frontend development for NU Lipa's Research and Knowledge Management Office (RKMO) system, and supported backend integration and testing. <br/>
+Led frontend development for NU Lipa’s Research and Knowledge Management Office (RKMO) system using React.js, Vite, and Tailwind CSS.<br/>
+Integrated Laravel REST APIs and collaborated on backend testing, debugging, and UI/UX improvements to enhance system functionality and user experience.<br/>
+Applied full-stack development practices including component-based UI development, API integration, responsive design, database-driven features, and collaborative Git-based development.<br/>
 `React.js` · `Vite` · `Tailwind CSS` · `Laravel` · `MySQL`
+
+**[BOARDING HOUSE MANAGEMENT SYSTEM](#)** )<br/>
+A web and mobile tenant management system designed to help boarding house owners manage rooms, tenants, reservations, and daily operations.<br/>
+Currently developing the system with a focus on role-based access, room management, tenant records, and responsive interfaces across web and mobile platforms.<br/>
+This project is being developed as a full-stack application to gain practical experience building and connecting web and mobile applications to a shared backend.<br/>
+`React.js` · `React Native` · `Tailwind CSS` · `Node.js` · `Express.js` · `PostgreSQL` · `Docker`
 
 ---
 
